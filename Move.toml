@@ -1,0 +1,15 @@
+[package]
+name = "decescrow"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = "0xc1be30b633b7279ff05307d3db752dc6b6af6a2e6b353fa85315b8a1f5bbd9b8"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
