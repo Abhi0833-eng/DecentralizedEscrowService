@@ -22,4 +22,9 @@ The vision of this project is to create a trustless and transparent escrow mecha
 - **On-Chain Transparency:** All transactions are recorded on the blockchain for verifiability.
 - **Simple Execution:** Minimal functions for ease of use and deployment.
 - **Scalability:** Designed to be extended with additional features as needed.
+  
+## Contract Address
+0xc1be30b633b7279ff05307d3db752dc6b6af6a2e6b353fa85315b8a1f5bbd9b8
+![image](https://github.com/user-attachments/assets/187734a9-e89a-437d-93e0-61cddfa1d39b)
+
 
